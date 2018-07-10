@@ -1,0 +1,25 @@
+body{
+    background-color: #f1f1f1;
+}
+nav h1{
+    text-transform: uppercase;
+}
+nav{
+    color: white;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+nav ul li a{
+    color: white;
+}
+nav ul li a:hover{
+    color: white;
+    text-decoration: underline;
+}
+#carouselExampleIndicators img{
+    height: 400px;
+}
